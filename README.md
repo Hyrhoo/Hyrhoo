@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I'm currently in my second year of computer science studies.
+
 <!--
 **Hyrhoo/Hyrhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
